@@ -1,5 +1,5 @@
 var searchItems = {
-'وان تو ثري 120مل شراب':['123 120ml syrup','10.5','PSEUDOEPHEDRINE+PARACETAMOL+CHLORPHENIRA','','',['','','']],
+'وان تو ثري 120مل شراب':['123 120ml syrup','10.5','PSEUDOEPHEDRINE+PARACETAMOL+CHLORPHENIRA','http://abuubakarsadiiq.so/uploads/article/photo/IMG_E36D7E-72C783-7209BD-53FC94-F68392-E90A6F.jpg','',['','','']],
 'وان تو ثري 20 قرص':['123 20 tab','15','PSEUDOEPHEDRINE+PARACETAMOL+CHLORPHENIRA','','',['','','']],
 'فايف - فلورو اوراسيال 250 مجم 10 امبول':['5 - fluoro- uracial 250 mg  10 amp','80','5-FLUOROURACIL  250 MG','','',['','','']],
 'سيفين هيربز(سبع اعشاب)':['7 herbs','9','ANISE+FENUGREEK+LIPIDIUM+LIQUORICE','','',['','','']],
