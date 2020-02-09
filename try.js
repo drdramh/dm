@@ -13020,4 +13020,6 @@ var searchItems = {
 'فياجرا 100 مجم 4 اقراص':['viagra 100 mg 4 tab ','77','sildenafil citrate  100 mg','https://dwapri.files.wordpress.com/2020/02/viagra100.jpg','لتقوية الانتصاب',''],
 'فياجرا 50 مجم 4 اقراص':['viagra 50 mg 4 FC tab ','60','sildenafil citrate  100 mg','https://www.postmymeds.co.uk/wp-content/uploads/2015/12/Viagra-50mg-Tablets.jpg','لتقوية الانتصاب',''],
 'ريباريل جل 40 جرام':['reparil gel 40 gm','23','Aescin - Diethylamine salicylate','https://www.al-agzakhana.com/wp-content/uploads/2017/08/REPARIL-gel-N.jpg','مسكن مضاد للتورم والالتهابات',''],
+'ريباريل أقراص 40 مجم  40 قرص ':['reparil 40 mgm 40 tablets','23','Aescin','https://www.syd24.com/wp-content/uploads/2019/02/REPARIL-%D8%B1%D9%8A%D8%A8%D8%A7%D8%B1%D9%8A%D9%84.jpg','مسكن مضاد للتورم والالتهابات',''],
+'دوفالاك 120مل معلق':['duphalac 120ml syrup','30','lactulose-galactose-lactose','https://media-arabia.com/wp-content/uploads/2018/07/%D8%B4%D8%B1%D8%A7%D8%A8-%D8%AF%D9%88%D9%81%D8%A7%D9%84%D8%A7%D9%83-Duphalac.jpg','ملين لعلاج الإمساك',''],
 }
