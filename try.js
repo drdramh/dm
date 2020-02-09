@@ -13016,4 +13016,8 @@ var searchItems = {
 'زيرتك 10 مجم 10قرص':['zyrtec 10mg 10/tab','13.2','cetirizine  ','','',''],
 'زيرتك 10 مل نقط فم':['zyrtec 10ml oral drops','18','cetirizine  1%','','',''],
 'زيفوكس 300 مل حقن ':['zyvox 300 ml inj','375','linezolid','','',''],
+'فياجرا 100 مجم 1 قرص':['viagra 100 mg 1 tab ','19.25','sildenafil citrate  100 mg','https://dwapri.files.wordpress.com/2020/02/viagra100.jpg','لتقوية الانتصاب',''],
+'فياجرا 100 مجم 4 اقراص':['viagra 100 mg 4 tab ','77','sildenafil citrate  100 mg','https://dwapri.files.wordpress.com/2020/02/viagra100.jpg','لتقوية الانتصاب',''],
+'فياجرا 50 مجم 4 اقراص':['viagra 50 mg 4 FC tab ','60','sildenafil citrate  100 mg','https://www.postmymeds.co.uk/wp-content/uploads/2015/12/Viagra-50mg-Tablets.jpg','لتقوية الانتصاب',''],
+'ريباريل جل 40 جرام':['reparil gel 40 gm','23','Aescin - Diethylamine salicylate','https://www.al-agzakhana.com/wp-content/uploads/2017/08/REPARIL-gel-N.jpg','مسكن مضاد للتورم والالتهابات',''],
 }
