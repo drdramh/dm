@@ -1,6 +1,6 @@
 var searchItems = {
 'وان تو ثري 120مل شراب':['123 120ml  syrup','10.5','pseudoephedrine-paracetamol-chlorpheniramine','','نزلات البرد',''],
-'اكنيزون 60 مل لوسيون':['acnesone 60ml lotion','8.5','calamine-hydrocortisone-sulphur','','حب الشباب',''],
+'اكنيزون 60 مل لوسيون':['acnesone 60ml lotion','7777777777777777','calamine-hydrocortisone-sulphur','','حب الشباب',''],
 'وان تو ثري 20 قرص':['123 20 tab','15','pseudoephedrine-paracetamol-chlorphenira','','نزلات البرد',''],
 'فايف - فلورو اوراسيال 250 مجم 10 امبول':['5 fluoro- uracial 250 mg  10 amp','80','5-fluorouracil  250 mg','','',''],
 'سيفين هيربز(سبع اعشاب)':['7 herbs','9','anise-fenugreek-lipidium-liquorice','','',''],
