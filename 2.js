@@ -1,6 +1,6 @@
-var searchItems = {
+var searchItems = {  
 'وان تو ثري 120مل شراب':['123 120ml  syrup','10.5','pseudoephedrine-paracetamol-chlorpheniramine','','نزلات البرد',''],
-'اكنيزون 60 مل لوسيون':['acnesone 60ml lotion','8.5','calamine-hydrocortisone-sulphur','','حب الشباب',''],
+'اكنيزون 60 مل لوسيون':['acnesone 60ml lotion','8000005','calamine-hydrocortisone-sulphur','','حب الشباب',''],
 'وان تو ثري 20 قرص':['123 20 tab','15','pseudoephedrine-paracetamol-chlorphenira','','نزلات البرد',''],
 'فايف - فلورو اوراسيال 250 مجم 10 امبول':['5 fluoro- uracial 250 mg  10 amp','80','5-fluorouracil  250 mg','','',''],
 'سيفين هيربز(سبع اعشاب)':['7 herbs','9','anise-fenugreek-lipidium-liquorice','','',''],
@@ -38,4 +38,5 @@ var searchItems = {
 'اكابريل20مجم 20 قراص':['acapril 20mg 20 tab','18','enalapril','','',''],
 'اية سى سى 200مجم 20اكياس':['acc  200mg  20/sachet','28','acetylcysteine  200 mg','','',''],
 'اية سى سى 600 مجم فوار 10 اقراص فوار':['acc long  600mg  10/eff tab','32','acetylcystine','','',''],
-}
+};
+
