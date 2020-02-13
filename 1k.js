@@ -8092,7 +8092,7 @@ var searchItems = {
 'ميتاكسلون 800 مجم 10 اقراص':['metaxalon 800mg 10 tab','16.8','metaxalone ','','',''],
 'metaz 15gm cream':['metaz 15gm cream','14.4','mometasone furoate','','',''],
 'metaz 30gm cream':['metaz 30gm cream','28.8','mometasone furoate','','',''],
-'ميتاز 30 جم مرهم':['metaz 30gm oint','28.8','mometasone furoate','','',''],
+'ميتاز 30 جم مرهم':['metazzzzzzzzzzzzzzzzzz 30gm oint','288888888888888888888888888888888888888888888888888.8','mometasone furoate','','',''],
 'ميتاز كريم  10 جم':['metaz0.1% cream 10 gm','10','mometasone furoate','','',''],
 'ميتكلاميد5 .500/2  30قرص':['metclamide 2.5/500mg 30/tab','15','glibenclamide-metformin','','',''],
 'ميتكلاميد 500/5   30قرص':['metclamide 5/500mg 30/tab','16.5','glibenclamide-metformin','','',''],
