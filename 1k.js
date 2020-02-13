@@ -6093,7 +6093,7 @@ var searchItems = {
 'اتش-فورميلا 20جرام كريم':['h-formula 20g cream','10.5','shark liver oil-phenylephrine hydrochlor','','',''],
 'هايفلوسيل 500 مجم 8 كبسول':['hi- flucil 500 mg  8 cap','8.5','amoxicillin-flucloxacillin','','',''],
 'هاي فورتي 50 مجم جيل':['hi forte 50 gm gel','23.95','','','',''],
-'hi forte cream 50mg':['hi forte cream 50mg','28.95','massage','','',''],
+'hi forte cream 50mg':['hi forte cream 50mg','277777778.95','massage','','',''],
 'هاى هيت  كريم':['hi heat cream','11.9','camphor-menthol','','',''],
 'هاى بانتين بلس كريم':['hi panthen cream','12','panthenol','','',''],
 'هاى بوتانسى كبسول20 ك':['hi- potency  formula  20 cap','19.8','multivitamins-minerals','','',''],
