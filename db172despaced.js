@@ -2741,10 +2741,6 @@ var searchItems = {
 'كليوسين كريم 50 جم':['cleocin cream 50 gm','55','','','',''],
 'كليروفات كريم 25مجم':['clerovat 25gm cream','8','clobetasol propionate','','',''],
 'كليروفات مرهم 25جم':['clerovate oint 25gm','7.5','clobetasol propionate','','',''],
-'كليكسان 0.2 ml 2/syring':['clexane 0.2ml 2/syring','70','enoxaparine sodium 60 mg','','مضاد للتجلط',''],
-'كليكسان 0.4 ml 2/syring':['clexane 0.4ml 2/syring','110','enoxaparine sodium 40 mg','','مضاد للتجلط',''],
-'كليكسان 0.6 ml 2/syring':['clexane 0.6ml 2/syring','130','enoxaparine sodium 60 mg','','مضاد للتجلط',''],
-'كليكسان 0.8 ml 2/syring':['clexane 0.8ml 2/syring','150','enoxaparine sodium 80 mg','','مضاد للتجلط',''],
 'كلياسيل 2و1 ميجا10قرص':['cliacil 1200.000 iu 10 tab','7.5','phenoxymethylpenicillin potassium','','',''],
 'كلياسيل شراب جاف':['cliacil 300.000 i . u / 5 ml susp 60 ml','6.5','phenoxymethylpenicillin potassium','','',''],
 'clidiaspasm 5 mg 10 tab':['clidiaspasm 5 mg 10 tab','4','chlordiazepoxide - clidinium bromide','','',''],
@@ -12997,10 +12993,13 @@ var searchItems = {
 'كيتوفان 2.5 % 20 جم جل':['ketofan 2.5% 20 gm gel','5.3','ketoprofen','https://e.top4top.io/p_1507038bc1.jpg','مسكن آلام مضاد التهاب',''],
 'كيتوفان 2.5 % 40 جم جل':['ketofan 2.5% 40 gm gel','7','ketoprofen','https://e.top4top.io/p_1507038bc1.jpg','مسكن آلام مضاد التهاب',''],
 'ميبو مرهم 15جرام':['mebo 15 gm oint','38','beta-sitosterol','https://dwapri.files.wordpress.com/2020/02/mebo.jpg','علاج الحروق والجروح',''],
-'ميبم مرهم 30جرام ':['mebo 30 gm oint','64','beta-sitosterol','https://dwapri.files.wordpress.com/2020/02/mebo.jpg','علاج الحروق والجروح',''],
-'ميبو مرهم 75جرام ':['mebo 75 gm oint','133','beta-sitosterol','https://images-na.ssl-images-amazon.com/images/I/41SJxvDdpvL._AC_SY400_.jpg','علاج الحروق والجروح',''],
+'ميبو مرهم 30جرام':['mebo 30 gm oint','64','beta-sitosterol','https://dwapri.files.wordpress.com/2020/02/mebo.jpg','علاج الحروق والجروح',''],
+'ميبو مرهم 75جرام':['mebo 75 gm oint','133','beta-sitosterol','https://images-na.ssl-images-amazon.com/images/I/41SJxvDdpvL._AC_SY400_.jpg','علاج الحروق والجروح',''],
 'ميبو سكار مرهم 30جرام ':['mebo scar oint 30 gm','195','sesame oil - cactus extract - bees wax','','للحروق وآثار وندب الجروح والحروق',''],
-
+'كليكسان 20 مجم / 0.2 مل 2 سرنجة معبأة':['Clexane 20mg/0.2ml 2 prefilled syringe','70','enoxaparine sodium 60 mg','https://sa.rosheta.com/upload/308d204ff9f3171429093c91ab5c115c684dc8ce880a38dd84c96f6556836f2f.jpg','مضاد للتجلط','كلكسان'],
+'كليكسان 40 مجم / 0.4 مل 2 سرنجة معبأة':['Clexane 40mg/0.4ml 2 prefilled syringe','110','enoxaparine sodium 40 mg','https://om.rosheta.com/upload/a5aecdc497f3a2430623d0b7a363800e2ff005613e6e563632176de673715f5f.jpg','مضاد للتجلط','كلكسان'],
+'كليكسان 60 مجم / 0.6 مل 2 سرنجة معبأة':['Clexane 60mg/0.6ml 2 prefilled syringe','130','enoxaparine sodium 60 mg','https://www.ruokn.com/wp-content/uploads/2019/07/%D9%83%D9%84-700x300.jpg','مضاد للتجلط','كلكسان'],
+'كليكسان 80 مجم / 0.8 مل 2 سرنجة معبأة':['Clexane 80mg/0.8ml 2 prefilled syringe','150','enoxaparine sodium 80 mg','https://media-arabia.com/wp-content/uploads/2018/08/Clexane-0.8ml.jpg','مضاد للتجلط','كلكسان'],
 
 
 
