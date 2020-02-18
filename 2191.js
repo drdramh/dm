@@ -5181,9 +5181,6 @@ var searchItems = {
 'فيوروسيميد 40مجم 10 قرص':['furosemide40 mg 10tab','4.75','furosemide 40 mg','','',''],
 'فيوسي 15جرام كريم':['fusi 15g cream','12','fusidc acid 2 mg','','',''],
 'فيوسي 15جرام مرهم':['fusi 15g oint','12','sodium fusidate','','',''],
-'فيوسيدرم 15 جم مرهم':['fusiderm 15g oint','12','sodium fusidate','','',''],
-'فيوسيدرم 15 جم جل':['fusiderm 15g gel','8.5','fusidc acid 2 mg','','',''],
-'فيوسيدرم 15جرام كريم':['fusiderm 15g cream','12','fusidic acid 2 mg','','',''],
 'fusidic acid 15 g gel':['fusidic acid 15 g gel','8.5','fusidic acid','','',''],
 'fusidic plus 15gm cream':['fusidic plus 15gm cream','8.5','fusidic acid - betamethasone','','',''],
 'فيوسيديكتام كريم 30 جم':['fusidictam cream 30 gm','12','fusidic acid','','',''],
@@ -12959,6 +12956,15 @@ var searchItems = {
 'تلفاست 100 مل شراب':['telfast 100 ml syrup','20','fexofenadine','https://www.l2tat.com/wp-content/uploads/2019/03/0003653_Telfast-new.jpg_550-495x405.jpeg','علاج حالات الحساسية - نزلات البرد للأطفال - العطس والكحة وحساسية الجيوب الانفية -  الحكة والهرش - التهابات الجلد والاكزيما - تورم الوجه ','تيلفاست','يحتوي تلفاست على المادة الفعالة فيكسوفينادين التي تعمل كمضاد للحساسية ولا تسبب النعاس مثل مضادات الحساسية الاخرى - الجرعات: ملعقة مرتين الى 3 مرات يوميا ومن آثاره الجانبية الدوخة وجفاف الفم والتحسس من الضوء '],
 'تلفاست 120 مجم 20 قرص':['telfast 120mg 20 tab','54','fexofenadine','https://www.alayada24.com/wp-content/uploads/2019/08/Telfast.jpg','مضاد للحساسية - علاج التهابات الجيوب الانفية - اعراض البرد - الحكة وحساسية الجلد','تيلفاست'],
 'تلفاست 180 مجم 20 قرص':['telfast 180mg 20 tab','75','fexofenadine','https://a.top4top.io/p_1509uop1d1.jpg','مضاد للحساسية - علاج التهابات الجيوب الانفية - اعراض البرد - الحكة وحساسية الجلد','تيلفاست'],
+'ريميرون 30 مجم 10 اقراص':['remeron 30mg 10 tab','58','mirtazapine','','مضاد اكتئاب - امراض نفسية',''],
+'ريميرون سولتاب 30 مجم اوروديسب اقراص':['remeron soltab 30mg orodisp.tabs','40','mirtazapine','','مضاد اكتئاب - امراض نفسية',''],
+'فيوسيدرم 15جرام كريم':['fusiderm 15g cream','15','fusidic acid 2 mg','https://media-arabia.com/wp-content/uploads/2018/08/Fusiderm-cream_42.jpg','مضاد حيوي','فيوسدرم'],
+'فيوسيدرم 15 جم مرهم':['fusiderm 15g oint','15','sodium fusidate','https://media-arabia.com/wp-content/uploads/2018/08/Fusiderm-cream_42.jpg','مضاد حيوي','فيوسدرم'],
+'فيوسيدرم 15 جم جل':['fusiderm 15g gel','12.75','fusidc acid 2 mg','','مضاد حيوي','فيوسدرم'],
+
+
+
+
 'انسولين اتش بيو ان بي اتش 100':['insulin h bio nph 100i.u.','38','insulin','','لمرضى السكر','أنسولين'],
 'انسولين اتش بيو ار 100 وحدة فيال':['insulin- h bio r 100 i.u','38','regular human insulin','','لمرضى السكر',''],
 'انسولين اتش بيو ار 40 وحدة دولية فيال':['insulin h bio r 40 i.u. 1/vial','14.4','regular human insulin','','لمرضى السكر',''],
@@ -12977,6 +12983,15 @@ var searchItems = {
 'ميكستارد 50 اتش ام 100 انسولين وحدة دولية / مل 5*3 مل بنفل':['mixtard 50 hm insulin 100i.u./ml 5*3ml penfills','155.5','insulin','','لمرضى السكر',''],
 'انسولاتارد اتش ام انسولين 100 وحدة دولية/مل 10 مل فيال':['insulatard hm insulin 100i.u./ml 10ml vial','55','insulin','','لمرضى السكر',''],
 'انسولاتارد اتش ام انسولين 100 وحدة دولية/مل 5*3 بنفل':['insulatard hm insulin 100i.u./ml 5*3 penfills','101','insulin','','لمرضى السكر',''],
+
+
+
+
+
+
+
+
+
 'انسولين اكترابيد اتش ام 40 وحدة 1 فيال':['insulin actrapid hm 40 u / ml 1vial','10','insulin','','',''],
 'انسولين اكترابيد نوفوليت 100 وحدة فيال':['insulin actrapid novolet100 i.u/ml 5x3ml vial','220','human insulin','','',''],
 'انسولين اكتارابيد 100 اتش ام فيال':['insulin actrapid hm 100 i.u. 1/vial','38','insulin','','',''],
@@ -12998,7 +13013,7 @@ var searchItems = {
 
 
 
-'AAA':['EE','Pr','comp','','use',''],
+
 'AAA':['EE','Pr','comp','','use',''],
 'AAA':['EE','Pr','comp','','use',''],
 'AAA':['EE','Pr','comp','','use',''],
