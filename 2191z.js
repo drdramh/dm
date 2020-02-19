@@ -7259,7 +7259,7 @@ var searchItems = {
 
 
 
-'AAA':['EE','Pr','comp','','use',''],
+'ريجيماكس 30 كبسولة':['regimax 120mg 30 cap','100','orlistat','https://www.syd24.com/wp-content/uploads/2019/06/REGIMAX-%D8%B1%D9%8A%D8%AC%D9%8A%D9%85%D8%A7%D9%83%D8%B3.jpeg','تخسيس وانقاص الوزن وعلاج السمنة','رجماكس'],
 'AAA':['EE','Pr','comp','','use',''],
 'AAA':['EE','Pr','comp','','use',''],
 }
