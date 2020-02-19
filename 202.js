@@ -3190,12 +3190,8 @@ var searchItems = {
 'سيبروتيرون 20 قرص':['cyproterone acetate 50 mg 20 tab','156','cyproterone','','',''],
 'سيبتادين 4 مجم 20 اقراص':['cyptadin. 4mg- 20tab','4.5','cyproheptadine hydrochloride','','',''],
 'سيبتادين 2 مجم 120 ملل شراب':['cyptadine syrup- 2mg/5ml /120ml','4.25','cyproheptadine hydrochloride','','',''],
-'سيرينول60 ملل شراب':['cyrinol 60 ml - syrup','5','carbinoxamine-pholcodine-ephedrine','','',''],
-'سيرينول120مل شراب':['cyrinol 120ml syrup','8','carbinoxamine-pholcodine-ephedrine','','',''],
-'سيستينول 20كبسولة':['cystinol 20/cap','10.5','solidago virgurea 425mg','','',''],
-'سيستون اقراص 60 قرص':['cystone 60tab','26.75','saxifraga ligulata ext','','',''],
 'سيسترودين 10 اقراص':['cystoridine 10 tab','24','tolterodine l tartarate','','',''],
-'cytarabine 1 gm 10 ml vial':['cytarabine 1 gm 10 ml vial','84.5','cytarabine 1 g','','',''],
+'سيتارابين 1 جم 10 مل فيال':['cytarabine 1 gm 10 ml vial','84.5','cytarabine 1 g','','',''],
 'سيتاربين 500 مجم 5 مل فيال':['cytarabine 500 mg / 5 ml 1vial','40','cytarabine','','',''],
 'سيتارابين500مجم10فيال':['cytarabine 500 mg 10 vail','400','cytarabine','','',''],
 'سيتاربين استادا 1جرام 1 فيال':['cytarabine stada 1g 1vial','134','cytarabine','','',''],
@@ -12984,6 +12980,10 @@ var searchItems = {
 'ميكستارد 50 اتش ام 100 انسولين وحدة دولية / مل 5*3 مل بنفل':['mixtard 50 hm insulin 100i.u./ml 5*3ml penfills','155.5','insulin','','لمرضى السكر',''],
 'انسولاتارد اتش ام انسولين 100 وحدة دولية/مل 10 مل فيال':['insulatard hm insulin 100i.u./ml 10ml vial','55','insulin','','لمرضى السكر',''],
 'انسولاتارد اتش ام انسولين 100 وحدة دولية/مل 5*3 بنفل':['insulatard hm insulin 100i.u./ml 5*3 penfills','101','insulin','','لمرضى السكر',''],
+'سيرينول 60 مل شراب':['cyrinol 60 ml  syrup','5','carbinoxamine-pholcodine-ephedrine','','كحة جافة بدون بلغم',''],
+'سيرينول 120 مل شراب':['cyrinol 120 ml syrup','8','carbinoxamine-pholcodine-ephedrine','','كحة جافة بدون بلغم',''],
+'سيستينول 425 20 كبسولة':['cystinol 425mg 20 cap','10.5','solidago virgurea 425mg','https://d.top4top.io/p_1510sm6cj1.png','حصوات الكلى والتهابات المسالك البولية',''],
+'سيستون اقراص 60 قرص':['cystone 60 tab','26.75','achyranthes - cyperus - saxifraga ligulata ext...','https://cf.shopee.co.id/file/a6749814fb8f829ac6561e463a6a08c2','حصوات الكلى والتهابات المسالك البولية','سستون'],
 
 
 'انسولين اكترابيد اتش ام 40 وحدة 1 فيال':['insulin actrapid hm 40 u / ml 1vial','10','insulin','','',''],
@@ -13005,11 +13005,18 @@ var searchItems = {
 'انسولين مونوتارد اتش ام 100 وحدة 1 فيال':['insulin monotard hm 100 u 1 vial','41','insulin','','',''],
 'انسولين ان بي اتش40 وحدة':['insulin nph 40 iu vail','14.4','insulin','','',''],
 'ريجيماكس 30 كبسولة':['regimax 120mg 30 cap','100','orlistat','https://www.syd24.com/wp-content/uploads/2019/06/REGIMAX-%D8%B1%D9%8A%D8%AC%D9%8A%D9%85%D8%A7%D9%83%D8%B3.jpeg','تخسيس وانقاص الوزن وعلاج السمنة','رجماكس'],
-  
 
-  
-  
-'AAA':['EE','Pr','comp','','use',''],
+
+
+
+
+
+
+
+
+
+
+
 'AAA':['EE','Pr','comp','','use',''],
 'AAA':['EE','Pr','comp','','use',''],
 'AAA':['EE','Pr','comp','','use',''],
